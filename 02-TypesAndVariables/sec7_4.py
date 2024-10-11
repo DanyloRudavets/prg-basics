@@ -1,2 +1,3 @@
-Enter tree circumference in cm: 120 
-Tree can be cut down: False
+c=int(input('enter tree circumference in cm:'))
+a= c>100
+print(f'Tree can be cut down: {a}')
