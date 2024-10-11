@@ -4,8 +4,5 @@
 # separated by a dash character.
 #
 phone = input('Enter phone number: ')
-if len(phone)!=9:
-    print(False)
-else:
-    p=phone.strip()
-    print(p)
+n=phone[:3]+'-'+phone[3:6]+'-'+phone[6:]
+print(n)
