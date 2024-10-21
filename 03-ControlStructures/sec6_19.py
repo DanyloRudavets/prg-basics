@@ -7,3 +7,4 @@ while d!=0:
         q=q+'0'
     d//=2
 print(q)
+print(124//2)
