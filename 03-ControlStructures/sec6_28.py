@@ -1,7 +1,12 @@
 print('the fibonacci sequance:')
-
+f=0
+s=1
+sum=0
+t=20
 c=0
-g=0
-for i in range(0,20):
-    for i in range (1,4)
-    g=c+g
+while c<t:
+    sum=f+s
+    f=s
+    s=sum
+    c+=1
+    print(sum)
