@@ -1,12 +1,12 @@
 #not finished 
-
-n=int(input('enter a number:'))
-q=0
-for i in range (2,n+1):
-    for h in range(1,i+1):
-        if i/h==True:
-            q+=1
-            if q==2:
-                print(i)
-
-    
+q=True
+n=100
+h=''
+for i in range (2,n):
+    q=True
+    for j in range(2,i):
+        if i%j==0:
+            q=False
+    if q:   
+         print(i, end=' ')
+        
