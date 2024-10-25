@@ -1,3 +1,4 @@
+import test_converters
 def m_to_cm(n):
     return n*100
 
@@ -9,4 +10,6 @@ if __name__ == "__main__":
     # so you can test the functions in this place
     print(f'2m = {m_to_cm(2)}cm')
     print(f'532cm = {cm_to_m(532)}m')
+    print(f'5cm ={test_converters.cm_t_in(5)}in')
+    print(f'10cm={test_converters.i_f_cm(10)}in f')
 
