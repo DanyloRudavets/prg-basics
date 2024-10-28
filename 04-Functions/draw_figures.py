@@ -1,7 +1,6 @@
 import turtle
-
-
-
+import figures
+side_length=figures.sdl('entre your number')
 
 
 def draw_square(side_length):
@@ -14,3 +13,4 @@ def draw_square(side_length):
         pen.right(90)
     pen.hideturtle()
     window.mainloop()
+draw_square(side_length)
