@@ -1,5 +1,4 @@
 def transpose_matrix(m):
-    try:
         k=[]
         c=[]
         for i in range(len(m[0])):
@@ -13,8 +12,6 @@ def transpose_matrix(m):
 
         print(c)
 
-    except TypeError:
-        print(m)
 
 
 
@@ -24,5 +21,5 @@ transpose_matrix([[1,2,3],
    [7,8,9]])
 transpose_matrix([[5,0,3,7,5],[9,0,9,1,2]])
 transpose_matrix([[1,2,3,4,5],[6,7,8,9,0]])
-transpose_matrix([5,6,7,8])
+transpose_matrix([[5,6,7,8]])
 
