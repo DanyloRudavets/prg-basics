@@ -5,3 +5,6 @@ Of Mice and Men,John Steinbeck,1937
 The Great Gatsby,F. Scott Fitzgerald,1925
 Great Expectations,Charles Dickens,1861
 Of Mice and Men,John Steinbeck,1937
+The Great Gatsby,F. Scott Fitzgerald,1925
+Great Expectations,Charles Dickens,1861
+Of Mice and Men,John Steinbeck,1937

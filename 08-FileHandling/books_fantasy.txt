@@ -3,3 +3,5 @@ The Lord of the Rings,J.R.R. Tolkien,1954
 The Hobbit,J.R.R. Tolkien,1937
 The Lord of the Rings,J.R.R. Tolkien,1954
 The Hobbit,J.R.R. Tolkien,1937
+The Lord of the Rings,J.R.R. Tolkien,1954
+The Hobbit,J.R.R. Tolkien,1937

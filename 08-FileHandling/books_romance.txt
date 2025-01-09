@@ -5,3 +5,6 @@ Wuthering Heights,Emily Brontë,1847
 Pride and Prejudice,Jane Austen,1813
 Anna Karenina,Leo Tolstoy,1877
 Wuthering Heights,Emily Brontë,1847
+Pride and Prejudice,Jane Austen,1813
+Anna Karenina,Leo Tolstoy,1877
+Wuthering Heights,Emily Brontë,1847
