@@ -10,13 +10,13 @@ class TaxiRide:
 
 
 
-def main():
-    # your program
-    ride1=TaxiRide(5)
-    ride2=TaxiRide(6)
-    ride1.distance=40
-    ride2.distance=20
-    print(f' {TaxiRide.calculate_fare(ride1, ride1.distance)}')
+    def main():
+        # your program
+        ride1=TaxiRide(5)
+        ride2=TaxiRide(6)
+        ride1.distance=40
+        ride2.distance=20
+        print(f' {TaxiRide.calculate_fare(ride1, ride1.distance)}')
 
 if __name__ == "__main__":
-    main()
+    TaxiRide.main()
