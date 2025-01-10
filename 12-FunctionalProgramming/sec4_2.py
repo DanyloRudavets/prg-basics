@@ -1,0 +1,1 @@
+print(f'Recorde values: 48,47,54,50,42,68,39,46 \n Speed too high: {list(filter(lambda e:e>50,[48,47,54,50,42,68,39,46] ))}')
