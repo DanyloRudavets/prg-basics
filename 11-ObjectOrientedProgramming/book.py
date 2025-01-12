@@ -1,6 +1,6 @@
 # class definition
 class Book():
-    def __init__(self,title,author,pages,price):
+    def __init__(self,title,author,pages,price=48):
         self.title = title
         self.author = author
         self.pages = pages
@@ -32,7 +32,7 @@ def main():
     # object creation based on the Book class
     favourite_book = Book(
         "Harry Potter and the Philosopher's Stone",
-        "J. K. Rowling", 223, 40)
+        "J. K. Rowling", 223)
 
     # object manipulation
     favourite_book.open()
